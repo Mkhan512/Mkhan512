@@ -1,12 +1,12 @@
 
-# a : int = 12
-# b : int = 6
-# if b > a:
-#     print(True)
-# else:
-#     print(False)
+a : int = 12
+b : int = 6
+if b > a:
+    print(True)
+else:
+    print(False)
 
-# if else use
+#if else use
 money = int(input("Enter Money: "))
 
 if money == 500:
