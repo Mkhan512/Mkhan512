@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import messagebox, filedialog
 import csv
 import os
-# file name
 # File name to store inventory data
 inventory_file = "inventory.csv"
 
